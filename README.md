@@ -4,14 +4,14 @@
       <a href="https://www.linkedin.com/in/mahmoud-ahmed-hanafy18/">
        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
       </a>
-      <a href="https://www.youtube.com/">
-       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-      </a>
-       <a href="https://www.discord.com/">
+      <a href="https://accounts.google.com/ServiceLoginAuth?continue=http%3A%2F%2Fgmail.google.com%2Fgmail&service=mail&Email=mahmoud.ahmed.hanafy18@gmail.com">
+         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+      </a>     
+       <a href="https://www.discordapp.com/users/mody112000#7869">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
       </a>
-      <a href="https://www.gmail.com/">
-         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+     <a href="https://www.youtube.com/">
+       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
       </a>
     </div>  
   <img src="https://komarev.com/ghpvc/?username=mahmoud-18&style=flat-square&color=blue" alt=""/>
