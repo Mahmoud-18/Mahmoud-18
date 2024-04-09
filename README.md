@@ -2,13 +2,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   
   <div id="badges">
       <a href="https://www.linkedin.com/in/mahmoud-ahmed-hanafy18/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
       </a>
-      <a href="https://www.linkedin.com/in/mahmoud-ahmed-hanafy18/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <a href="https://www.youtube.com/">
+       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
       </a>
-       <a href="https://www.linkedin.com/in/mahmoud-ahmed-hanafy18/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+       <a href="https://www.discord.com/">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+      </a>
+      <a href="https://www.gmail.com/">
+         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
       </a>
     </div>  
   <img src="https://komarev.com/ghpvc/?username=mahmoud-18&style=flat-square&color=blue" alt=""/>
@@ -18,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my GitHub profile! I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt, specializing in web and desktop developements using .NET technologies. I am committed to continuous learning and growth in the field. I thrive on solving problems and creating solutions that make a difference.I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
+Welcome to my GitHub profile! I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt, specializing in web and desktop applications developement using .NET technologies. I am committed to continuous learning and growth in the field. I thrive on solving problems and creating solutions that make a difference.I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 
 One of my proudest achievements is the development of Fabritec, a Steel Fabrication Management System. I conceptualized, designed, and developed this comprehensive SaaS solution from scratch. This project not only showcases my technical skills but also underscores my ability to turn ideas into real-world solutions.
     
