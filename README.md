@@ -4,6 +4,12 @@
       <a href="https://www.linkedin.com/in/mahmoud-ahmed-hanafy18/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+      <a href="https://www.linkedin.com/in/mahmoud-ahmed-hanafy18/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+       <a href="https://www.linkedin.com/in/mahmoud-ahmed-hanafy18/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
     </div>  
   <img src="https://komarev.com/ghpvc/?username=mahmoud-18&style=flat-square&color=blue" alt=""/>
 </div>
@@ -12,14 +18,10 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my GitHub profile! I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt, specializing in web and desktop developements using .NET technologies. 
+Welcome to my GitHub profile! I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt, specializing in web and desktop developements using .NET technologies. I am committed to continuous learning and growth in the field. I thrive on solving problems and creating solutions that make a difference.I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 
-- 💻 Currently, I'm working as a Dotnet Developer, utilizing my expertise in C# and .NET to develop robust web applications.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-     
+One of my proudest achievements is the development of Fabritec, a Steel Fabrication Management System. I conceptualized, designed, and developed this comprehensive SaaS solution from scratch. This project not only showcases my technical skills but also underscores my ability to turn ideas into real-world solutions.
+    
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -48,7 +50,6 @@ Welcome to my GitHub profile! I'm a Software Developer <img src="https://media.g
 
 ### :fire: My Stats :
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoud-18&theme=dark&stroke=1444EB)](https://git.io/streak-stats)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoud-18&theme=dark" alt="GitHub Streak" /></a>
+</div>
